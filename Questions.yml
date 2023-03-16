@@ -1,9 +1,9 @@
-  ______ ____  _        ____  _   _ ______ 
- |  ____|  _ \| |      / __ \| \ | |  ____|
- | |__  | |_) | |     | |  | |  \| | |__   
- |  __| |  _ <| |     | |  | | . ` |  __|  
- | |    | |_) | |____ | |__| | |\  | |____ 
- |_|    |____/|______(_)____/|_| \_|______|
+#  ______ ____  _        ____  _   _ ______ 
+# |  ____|  _ \| |      / __ \| \ | |  ____|
+# | |__  | |_) | |     | |  | |  \| | |__   
+# |  __| |  _ <| |     | |  | | . ` |  __|  
+# | |    | |_) | |____ | |__| | |\  | |____ 
+# |_|    |____/|______(_)____/|_| \_|______|
                                            
 Data:
   Default:
@@ -2006,7 +2006,7 @@ Data:
       Answers:
       - Firebird
     '412':
-      Question: '&bCars: Volvo's chairman resigned in 1993 in protest of a merger with this automaker.'
+      Question: '&bCars: Volvo''s chairman resigned in 1993 in protest of a merger with this automaker.'
       Answers:
       - Renault
     '413':
@@ -3067,87 +3067,87 @@ Data:
       Question: '&bMinecraft: When did Minecraft come out?'
       Answers:
       - '2009'
-    '651':
+    '6512':
       Question: '&bMinecraft: When was Minecraft 1.9 released'
       Answers:
       - February 29th 2016
       - February 2016
-    '652':
+    '6522':
       Question: '&bVideo Game Trivia: Which character was introduced in Super Street Fighter II?'
       Answers:
       - Cammy
-    '653':
+    '6532':
       Question: '&bVideo Game Trivia: Who is Mega Mans creator?'
       Answers:
       - Dr. Light
-    '654':
+    '6542':
       Question: '&bVideo Game Trivia: Who is the main character in the DeathQuest series?'
       Answers:
       - Lucretzia
-    '655':
+    '6552':
       Question: '&bVideo Game Trivia: Who said "All life begins and ends with Nu...at least this is my belief for now..."?'
       Answers:
       - Nu
-    '656':
+    '6561':
       Question: '&bVideo Games:  A fighting video game in the series where two fighters use a variety of attacks to knock out their opponent (Hadouken!)'
       Answers:
       - Street Fighter
-    '657':
+    '6571':
       Question: '&bVideo Games:  A much anticipated open-world first person survival game, that was not all it was cracked up to be'
       Answers:
       - No Man's Sky
       - No Mans Sky
-    '658':
+    '6581':
       Question: '&bVideo Games:  A multiplayer FPS, RED v BLU team and many gamemodes'
       Answers:
       - TF2
       - Team Fortress 2
-    '659':
+    '6591':
       Question: '&bVideo Games:  A puzzling game involving a portal device and a malicious AI'
       Answers:
       - Portal
       - Portal 2
-    '660':
+    '6601':
       Question: '&bVideo Games:  An underwater FPS where you roam around the city of Rapture'
       Answers:
       - BioShock
-    '661':
+    '6611':
       Question: '&bVideo Games:  Become a stealthy assassin and fight off the Templars'
       Answers:
       - Assassin's Creed Syndicate
       - Assassin's Creed
       - Assassins Creed
-    '662':
+    '6621':
       Question: '&bVideo Games:  Fighting dragons and running around snowy terrain'
       Answers:
       - Skyrim
-    '663':
+    '6631':
       Question: '&bVideo Games:  Following in the originals footprints, you battle the forces of Hell as a marine'
       Answers:
       - Doom
-    '664':
+    '6641':
       Question: '&bVideo Games:  From Vault 111 to post-apocalyptic Boston'
       Answers:
       - Fallout 4
-    '665':
+    '6652':
       Question: '&bVideo Games:  How many generations are in Titanfall?'
       Answers:
       - '10'
       - Ten
-    '656':
+    '6562':
       Question: '&bVideo Games:  A game series where you run around as a pink ball that eats everything in sight'
       Answers:
       - Kirby
-    '657':
+    '6572':
       Question: '&bVideo Games:  Play soccer as... a supercar?'
       Answers:
       - Rocket League
-    '658':
+    '6582':
       Question: '&bVideo Games:  A highly-memed 3rd-person shooter with way too many emotes. Very popular amongst kids.'
       Answers:
       - Fortnite
       - Fortnite Battle Royale
-    '659':
+    '6592':
       Question: '&bVideo Games:  A man has fallen into the river in -----'
       Answers:
       - Lego City
