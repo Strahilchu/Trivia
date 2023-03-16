@@ -60,7 +60,7 @@ Data:
       Answers:
       - realms
     '12':
-      Question: '&bMinecraft: What part of Notch's body did he shave for charity?'
+      Question: '&bMinecraft: What part of Notch''s body did he shave for charity?'
       Answers:
       - beard
       - face
@@ -311,7 +311,7 @@ Data:
       - wood log
       - wood logs
     '58':
-      Question: '&bMinecraft: What is an endermans weakness?'
+      Question: '&bMinecraft: What is an enderman''s weakness?'
       Answers:
       - water
     '59':
@@ -356,7 +356,7 @@ Data:
       - '4'
       - four
     '67':
-      Question: '&bMinecraft: Were do silverfish hide?'
+      Question: '&bMinecraft: Where do silverfish hide?'
       Answers:
       - In rocks/stone
       - In rocks
@@ -429,7 +429,7 @@ Data:
       - seven
       - '7'
     '77':
-      Question: '&bMinecraft: What color are an endermans eyes?'
+      Question: '&bMinecraft: What color are an enderman''s eyes?'
       Answers:
       - purple
     '78':
@@ -505,7 +505,7 @@ Data:
       - '3'
       - three
     '94':
-      Question: '&bMinecraft: What is the color of steves t-shirt?'
+      Question: '&bMinecraft: What is the color of steve''s t-shirt?'
       Answers:
       - blue
     '95':
@@ -959,6 +959,7 @@ Data:
       Question: '&bAnimals: What is a group of Buffalo?'
       Answers:
       - Gang
+      - herd
     '184':
       Question: '&bAnimals: What is a group of Chicken?'
       Answers:
@@ -1041,7 +1042,7 @@ Data:
       Answers:
       - Worm
     '203':
-      Question: '&bAnimals: What is considered the most deadly snake in the world up to 6.5m long? It can also kill a full grown elephant in 3 hours'
+      Question: '&bAnimals: What is considered the most deadly snake in the world; up to 6.5m long? It can also kill a full grown elephant in 3 hours'
       Answers:
       - King Cobra
     '204':
@@ -1066,7 +1067,7 @@ Data:
       Answers:
       - King Cobra
     '209':
-      Question: '&bAnimals: Where do Black Racers normally lay there eggs?'
+      Question: '&bAnimals: Where do Black Racers normally lay their eggs?'
       Answers:
       - Rotten logs & Leaf piles      
       - Rotten logs      
@@ -1105,6 +1106,7 @@ Data:
       Answers:
       - Desert sandstorm
       - sandstorm
+      - haboob
     '218':
       Question: '&bAnimals: A camel with one hump is a dromedary, while a camel with two humps is a ----------'
       Answers:
@@ -1209,7 +1211,7 @@ Data:
       Answers:
       - Insects
     '242':
-      Question: '&bAnimals: In the Lone Ranger, what was Tontos horses name?'
+      Question: '&bAnimals: In the Lone Ranger, what was Tonto''s horse''s name?'
       Answers:
       - Scout
     '243':
@@ -1241,7 +1243,7 @@ Data:
       Answers:
       - Antarctica
     '250':
-      Question: '&bAnimals: Snoopy from the comic peanuts is what breed of dog?'
+      Question: '&bAnimals: Snoopy from the comic Peanuts is what breed of dog?'
       Answers:
       - Beagle
     '251':
@@ -1280,6 +1282,8 @@ Data:
       Question: '&bAnimals: What kind of animal is the source of mohair?'
       Answers:
       - Angora Goat
+      - angora
+      - goat
     '260':
       Question: '&bAnimals: The bat is the only mammal that can ----------'
       Answers:
@@ -1442,6 +1446,8 @@ Data:
       Question: '&bAnimals: What type of insect performs a waggle dance?'
       Answers:
       - Hive bee
+      - bee
+      - honeybee
     '297':
       Question: '&bAnimals: What word is used for a female fox?'
       Answers:
@@ -1462,6 +1468,7 @@ Data:
       Question: '&bAnimals: Trivia - Which mammal has the highest blood pressure?'
       Answers:
       - Giraffe
+      - giraffes
     '302':
       Question: '&bAnimals: Which mammal has the longest gestation period?'
       Answers:
@@ -1566,7 +1573,7 @@ Data:
       - Goya
       - Francisco Goya
     '322':
-      Question: '&bArt: Who, in 1874, painted the picture called La Loge?'
+      Question: '&bArt: Who, in 1874, painted La Loge?'
       Answers:
       - Auguste Renoir
       - Renoir      
@@ -1793,12 +1800,12 @@ Data:
       - Edgar Allan Poe
       - Poe
     '369':
-      Question: '&bAuthors: Who wrote The Pilgrim's Progress?'
+      Question: '&bAuthors: Who wrote The Pilgrim''s Progress?'
       Answers:
       - John Bunyan
       - Bunyan
     '370':
-      Question: '&bAuthors: Who wrote Portnoy's Complaint?'
+      Question: '&bAuthors: Who wrote Portnoy''s Complaint?'
       Answers:
       - Philip Roth
       - Roth
@@ -1927,7 +1934,7 @@ Data:
       Answers:
       - Pollywog
     '397':
-      Question: '&bBoats Trivia: A ship's officer in charge of hull, equipment and deck crew?'
+      Question: '&bBoats Trivia: A ship''s officer in charge of hull, equipment and deck crew?'
       Answers:
       - Boatswain
       - bosun
@@ -2000,11 +2007,11 @@ Data:
       - De Lorean
       - delorean
     '414':
-      Question: '&bCars: What was Al Capone's favorite bulletproof car'
+      Question: '&bCars: What was Al Capone''s favorite bulletproof car'
       Answers:
       - Cadillac
     '415':
-      Question: '&bCars: What was Ford's first production car?'
+      Question: '&bCars: What was Ford''s first production car?'
       Answers:
       - Model T
       - T Lizzy
@@ -2033,7 +2040,7 @@ Data:
       - Ernest Hemingway
       - Hemingway
     '420':
-      Question: '&bClassic Literature: Who wrote Lord of the Rings?'
+      Question: '&bClassic Literature: Who wrote The Lord of the Rings?'
       Answers:
       - J.R.R. Tolkien
       - Tolkien
