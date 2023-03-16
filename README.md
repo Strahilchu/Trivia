@@ -1,6 +1,12 @@
-Trivia Game: GitHub README
-
-Welcome to the Trivia Game! This is a fun and engaging game that tests your knowledge on various topics. Please follow the guidelines provided below when contributing to the game.
+  _____  ______          _____    __  __ ______ 
+ |  __ \|  ____|   /\   |  __ \  |  \/  |  ____|
+ | |__) | |__     /  \  | |  | | | \  / | |__   
+ |  _  /|  __|   / /\ \ | |  | | | |\/| |  __|  
+ | | \ \| |____ / ____ \| |__| | | |  | | |____ 
+ |_|  \_\______/_/    \_\_____/  |_|  |_|______|
+                                                
+                                                
+Chat Trivia Game: GitHub README
 
 Contribution Guidelines
 Format: Please adhere to the format provided for adding questions and answers.
