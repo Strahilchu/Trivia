@@ -8673,11 +8673,6 @@ Data:
       Question: '&bScience: What is the first element on the periodic table?'
       Answers:
       - hydrogen
-    '1997':
-      Question: '&bSport: How many holes are there in a full round of golf?'
-      Answers:
-      - '18'
-      - eighteen
     '1998':
       Question: '&bTrivia: How is the number 5 written in Roman numerals?'
       Answers:
