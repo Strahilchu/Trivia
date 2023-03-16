@@ -2,7 +2,7 @@
 
 Stick to the format provided
 
-IF YOU ADD APOSTROPHE ADD TWO '' INSTEAD OF ONE (only one will appear but in the config two are needed.
+IF YOU ADD APOSTROPHE ADD TWO '' INSTEAD OF ONE (only one will appear in-game, but in the config two are needed).
 
 Its okay to delete questions, the numbers don't have to be in order.
 
