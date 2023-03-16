@@ -2306,11 +2306,6 @@ Data:
       Answers:
       - pink carnation
       - Camellia
-    '478':
-      Question: '&bFlower Meanings: What is the flower that stands for: affection?'
-      Answers:
-      - Pink carnation
-      - Camellia
     '479':
       Question: '&bFlower Meanings: What is the flower that stands for: aversion?'
       Answers:
@@ -5573,10 +5568,6 @@ Data:
       Question: '&bScience: True or False: Our star, the sun, is one of the hundreds of billions of stars in our galaxy, The Milky Way.'
       Answers:
       - 'true'
-    '1246':
-      Question: '&bScience: True or False: Our star, the sun, is one of the hundreds of billions of stars in our galaxy, The Milky Way.'
-      Answers:
-      - 'true'
     '1247':
       Question: '&bScience: What do you call two 2 protons and 2 neutrons fused together, surrounded by 2 electrons?'
       Answers:
@@ -7267,11 +7258,6 @@ Data:
       Question: '&bUseless Trivia: Where would you find the Sea of Tranquility?'
       Answers:
       - The Moon
-    '1656':
-      Question: '&bUseless Trivia: What is someone who shoes horses called?'
-      Answers:
-      - A farrier
-      - farrier
     '1657':
       Question: '&bUseless Trivia: What item of clothing was named after its Scottish inventor?'
       Answers:
@@ -7616,10 +7602,6 @@ Data:
       Question: '&bSport: Where were the 27th (1996) Summer Olympic games held?'
       Answers:
       - Atlanta
-    '1738':
-      Question: '&bSport: How big is the diameter of a basketball hoop, in inches?'
-      Answers:
-      - '18'
     '1739':
       Question: '&bSport: Who has been named as the White Lightning in the game of cricket?'
       Answers:
@@ -8166,7 +8148,7 @@ Data:
       Answers:
       - Dictionary
     '1870':
-      Question: '&bUseless Trivia: What is someone who shoes horses called?'
+      Question: '&bUseless Trivia: What is someone called?'
       Answers:
       - A farrier
       - farrier
