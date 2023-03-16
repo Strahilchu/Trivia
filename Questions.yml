@@ -3107,33 +3107,6 @@ Data:
       Answers:
       - Portal
       - Portal 2
-    '6601':
-      Question: '&bVideo Games:  An underwater FPS where you roam around the city of Rapture'
-      Answers:
-      - BioShock
-    '6611':
-      Question: '&bVideo Games:  Become a stealthy assassin and fight off the Templars'
-      Answers:
-      - Assassin's Creed Syndicate
-      - Assassin's Creed
-      - Assassins Creed
-    '6621':
-      Question: '&bVideo Games:  Fighting dragons and running around snowy terrain'
-      Answers:
-      - Skyrim
-    '6631':
-      Question: '&bVideo Games:  Following in the originals footprints, you battle the forces of Hell as a marine'
-      Answers:
-      - Doom
-    '6641':
-      Question: '&bVideo Games:  From Vault 111 to post-apocalyptic Boston'
-      Answers:
-      - Fallout 4
-    '6652':
-      Question: '&bVideo Games:  How many generations are in Titanfall?'
-      Answers:
-      - '10'
-      - Ten
     '6562':
       Question: '&bVideo Games:  A game series where you run around as a pink ball that eats everything in sight'
       Answers:
