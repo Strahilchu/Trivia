@@ -61,7 +61,7 @@ Data:
       Answers:
       - realms
     '12':
-      Question: '&bMinecraft: What part of Notchs body did he shave for charity?'
+      Question: '&bMinecraft: What part of Notch''s body did he shave for charity?'
       Answers:
       - beard
       - face
@@ -312,7 +312,7 @@ Data:
       - wood log
       - wood logs
     '58':
-      Question: '&bMinecraft: What is an endermans weakness?'
+      Question: '&bMinecraft: What is an enderman''s weakness?'
       Answers:
       - water
     '59':
@@ -357,7 +357,7 @@ Data:
       - '4'
       - four
     '67':
-      Question: '&bMinecraft: Were do silverfish hide?'
+      Question: '&bMinecraft: Where do silverfish hide?'
       Answers:
       - In rocks/stone
       - In rocks
@@ -430,7 +430,7 @@ Data:
       - seven
       - '7'
     '77':
-      Question: '&bMinecraft: What color are an endermans eyes?'
+      Question: '&bMinecraft: What color are an enderman''s eyes?'
       Answers:
       - purple
     '78':
@@ -508,7 +508,7 @@ Data:
       - '3'
       - three
     '94':
-      Question: '&bMinecraft: What is the color of steves t-shirt?'
+      Question: '&bMinecraft: What is the color of steve''s t-shirt?'
       Answers:
       - blue
     '95':
@@ -966,6 +966,7 @@ Data:
       Question: '&bAnimals: What is a group of Buffalo?'
       Answers:
       - Gang
+      - herd
     '184':
       Question: '&bAnimals: What is a group of Chicken?'
       Answers:
@@ -1048,7 +1049,7 @@ Data:
       Answers:
       - Worm
     '203':
-      Question: '&bAnimals: What is considered the most deadly snake in the world up to 6.5m long? It can also kill a full grown elephant in 3 hours'
+      Question: '&bAnimals: What is considered the most deadly snake in the world; up to 6.5m long? It can also kill a full grown elephant in 3 hours'
       Answers:
       - King Cobra
     '204':
@@ -1073,7 +1074,7 @@ Data:
       Answers:
       - King Cobra
     '209':
-      Question: '&bAnimals: Where do Black Racers normally lay there eggs?'
+      Question: '&bAnimals: Where do Black Racers normally lay their eggs?'
       Answers:
       - Rotten logs & Leaf piles      
       - Rotten logs      
@@ -1112,6 +1113,7 @@ Data:
       Answers:
       - Desert sandstorm
       - sandstorm
+      - haboob
     '218':
       Question: '&bAnimals: A camel with one hump is a dromedary, while a camel with two humps is a ----------'
       Answers:
@@ -1216,7 +1218,7 @@ Data:
       Answers:
       - Insects
     '242':
-      Question: '&bAnimals: In the Lone Ranger, what was Tontos horses name?'
+      Question: '&bAnimals: In the Lone Ranger, what was Tonto''s horse''s name?'
       Answers:
       - Scout
     '243':
@@ -1248,7 +1250,7 @@ Data:
       Answers:
       - Antarctica
     '250':
-      Question: '&bAnimals: Snoopy from the comic peanuts is what breed of dog?'
+      Question: '&bAnimals: Snoopy from the comic Peanuts is what breed of dog?'
       Answers:
       - Beagle
     '251':
@@ -1287,6 +1289,8 @@ Data:
       Question: '&bAnimals: What kind of animal is the source of mohair?'
       Answers:
       - Angora Goat
+      - angora
+      - goat
     '260':
       Question: '&bAnimals: The bat is the only mammal that can ----------'
       Answers:
@@ -1449,6 +1453,8 @@ Data:
       Question: '&bAnimals: What type of insect performs a waggle dance?'
       Answers:
       - Hive bee
+      - bee
+      - honeybee
     '297':
       Question: '&bAnimals: What word is used for a female fox?'
       Answers:
@@ -1469,6 +1475,7 @@ Data:
       Question: '&bAnimals: Trivia - Which mammal has the highest blood pressure?'
       Answers:
       - Giraffe
+      - giraffes
     '302':
       Question: '&bAnimals: Which mammal has the longest gestation period?'
       Answers:
@@ -1493,7 +1500,7 @@ Data:
       Answers:
       - Shin Tenchi Muyo
     '307':
-      Question: '&bAquatic: What is the largest fish in the world up to 12.65m in length & 36 tonnes?'
+      Question: '&bAquatic: What is the largest fish in the world, up to 12.65m in length & 36 tonnes?'
       Answers:
       - Whale Shark
     '308':
@@ -1516,6 +1523,8 @@ Data:
       Question: '&bArt: Artist who had a habit of never finishing the work commissioned to him'
       Answers:
       - Leonardo da Vinci
+      - da vinci
+      - davinci
     '312':
       Question: '&bArt: Artist who only sold one painting in their lifetime'
       Answers:
@@ -1532,18 +1541,23 @@ Data:
       Question: '&bArt: Which artist painted The Girl with a Pearl Earring?'
       Answers:
       - Johannes Vermeer
+      - Vermeer
     '315':
       Question: '&bArt: Which artist painted The Last Supper?'
       Answers:
       - Leonardo da Vinci
+      - da Vinci
+      - davinci
     '316':
       Question: '&bArt: Which artist painted The Night Watch?'
       Answers:
       - Rembrandt
+      - van rijn
     '317':
       Question: '&bArt: Which artist painted The Scream?'
       Answers:
       - Edvard Munch
+      - Munch
     '318':
       Question: '&bArt: Which artist painted The Starry Night?'
       Answers:
@@ -1558,12 +1572,15 @@ Data:
       Question: '&bArt: Which artist painted the Mona Lisa?'
       Answers:
       - Leonardo da Vinci
+      - da Vinci
+      - davinci
     '321':
       Question: '&bArt: Who painted "The Naked Maja"?'
       Answers:
       - Goya
+      - Francisco Goya
     '322':
-      Question: '&bArt: Who, in 1874, painted the picture called La Loge?'
+      Question: '&bArt: Who, in 1874, painted La Loge?'
       Answers:
       - Auguste Renoir
       - Renoir      
@@ -1576,6 +1593,7 @@ Data:
       Answers:
       - Young child
       - child
+      - kid
     '325':
       Question: '&bAussie Slang: Battler'
       Answers:
@@ -1609,6 +1627,9 @@ Data:
       Answers:
       - Ozzie rules football
       - football
+      - Oz rules football
+      - Australia rules football
+      - soccer
     '332':
       Question: '&bAussie Slang: Chook'
       Answers:
@@ -1628,10 +1649,7 @@ Data:
       Question: '&bAussie Slang: Bikkie'
       Answers:
       - biscuit
-    '336':
-      Question: '&bAussie Slang: Dinkum'
-      Answers:
-      - genuine
+      - cookie
     '337':
       Question: '&bAussie Slang: Moolah'
       Answers:
@@ -1656,10 +1674,12 @@ Data:
       Question: '&bAussie Slang: Shonky'
       Answers:
       - Poor quality
+      - shoddy
     '343':
       Question: '&bAussie Slang: Smoko'
       Answers:
       - break
+      - smoke break
     '344':
       Question: '&bAussie Slang: Tinnie'
       Answers:
@@ -1675,6 +1695,8 @@ Data:
       Question: '&bAussie Slang: Wowser'
       Answers:
       - A killjoy
+      - pessimist
+      - downer
     '347':
       Question: '&bAussie Slang: Yakka' 
       Answers:
@@ -1683,146 +1705,182 @@ Data:
       Question: '&bAuthors: The Silence of the Lambs'
       Answers:
       - Thomas Harris
+      - Harris
     '349':
       Question: '&bAuthors: Who wrote "Death of a Salesman" in 1949?'
       Answers:
       - Arthur Miller
+      - Miller
     '350':
-      Question: '&bAuthors: Who wrote A Bridge to Far?'
+      Question: '&bAuthors: Who wrote A Bridge Too Far?'
       Answers:
       - Cornelius Ryan
+      - Ryan
     '351':
       Question: '&bAuthors: Who wrote A Clockwork Orange?'
       Answers:
       - Anthony Burgess
+      - Burgess
     '352':
       Question: '&bAuthors: Who wrote As I Lay Dying?'
       Answers:
       - William Faulkner
+      - Faulkner
     '353':
       Question: '&bAuthors: Who wrote Cardinal of the Kremlin?'
       Answers:
       - Tom Clancy
+      - Clancy
     '354':
       Question: '&bAuthors: Who wrote Catch 22?'
       Answers:
       - Joseph Heller
+      - Heller
     '355':
       Question: '&bAuthors: Who wrote Chitty Chitty Bang Bang?'
       Answers:
       - Ian Fleming
+      - Fleming
     '356':
-      Question: '&bAuthors: Who wrote Cry the Beloved Country?'
+      Question: '&bAuthors: Who wrote Cry, the Beloved Country?'
       Answers:
       - Alan Paton
+      - Paton
     '357':
-      Question: '&bAuthors: Who wrote Deptford Trilogy?'
+      Question: '&bAuthors: Who wrote The Deptford Trilogy?'
       Answers:
       - Robertson Davies
+      - Davies
     '358':
       Question: '&bAuthors: Who wrote El Gringo?'
       Answers:
       - Carlos Fuentes
+      - Fuentes
     '359':
       Question: '&bAuthors: Who wrote Fahrenheit 451?'
       Answers:
       - Ray Bradbury
+      - Bradbury
     '360':
-      Question: '&bAuthors: Who wrote Ice Palace?'
+      Question: '&bAuthors: Who wrote The Ice Palace?'
       Answers:
       - Edna Furber
+      - Furber
     '361':
-      Question: '&bAuthors: Who wrote Interview with a Vampire?'
+      Question: '&bAuthors: Who wrote Interview with the Vampire?'
       Answers:
       - Anne Rice
+      - Rice
     '362':
       Question: '&bAuthors: Who wrote Ironweed?'
       Answers:
       - William Kennedy
+      - Kennedy
     '363':
       Question: '&bAuthors: Who wrote Islands in the Stream?'
       Answers:
       - Ernest Hemingway
+      - Hemingway
     '364':
       Question: '&bAuthors: Who wrote Lightning?'
       Answers:
       - Dean Koontz
+      - Koontz
     '365':
       Question: '&bAuthors: Who wrote Little Country?'
       Answers:
       - Charles De Lint
+      - De Lint
     '366':
       Question: '&bAuthors: Who wrote Lolita?'
       Answers:
       - Vladimir Nabokov
+      - Nabokov 
     '367':
       Question: '&bAuthors: Who wrote Movable Feast?'
       Answers:
       - Ernest Hemingway
+      - Hemingway
     '368':
       Question: '&bAuthors: Who wrote Murders of Rue Morgue?'
       Answers:
       - Edgar Allan Poe
+      - Poe
     '369':
-      Question: '&bAuthors: Who wrote Pilgrims Progress?'
+      Question: '&bAuthors: Who wrote The Pilgrim''s Progress?'
       Answers:
       - John Bunyan
+      - Bunyan
     '370':
-      Question: '&bAuthors: Who wrote Portnoys Complaint?'
+      Question: '&bAuthors: Who wrote Portnoy''s Complaint?'
       Answers:
       - Philip Roth
+      - Roth
     '371':
       Question: '&bAuthors: Who wrote Puppet Masters?'
       Answers:
       - Robert Heinlein
+      - Heinlein
     '372':
       Question: '&bAuthors: Who wrote Silas Marner?'
       Answers:
-      - George Elliot
+      - George Eliot
+      - Eliot
     '373':
       Question: '&bAuthors: Who wrote Single and Single?'
       Answers:
       - John Le Carre
+      - Le Carre
     '374':
       Question: '&bAuthors: Who wrote Someplace to Be Flying?'
       Answers:
       - Charles De Lint
+      - De Lint
     '375':
-      Question: '&bAuthors: Who wrote Sound and the Fury?'
+      Question: '&bAuthors: Who wrote The Sound and the Fury?'
       Answers:
       - William Faulkner
+      - Faulkner
     '376':
-      Question: '&bAuthors: Who wrote Sum of All Fears?'
+      Question: '&bAuthors: Who wrote The Sum of All Fears?'
       Answers:
       - Tom Clancy
+      - Clancy
     '377':
       Question: '&bAuthors: Who wrote The Runaway Jury?'
       Answers:
       - John Grisham
+      - Grisham
     '378':
-      Question: '&bAuthors: Who wrote Travels?'
+      Question: '&bAuthors: Who wrote The Travels?'
       Answers:
       - Marco Polo
     '379':
       Question: '&bAuthors: Who wrote Vet in Harness?'
       Answers:
       - James Herriot
+      - Herriot
     '380':
-      Question: '&bAuthors: Who wrote Wizard of Oz?'
+      Question: '&bAuthors: Who wrote The Wizard of Oz?'
       Answers:
       - L Frank Baum
+      - Baum 
+      - Frank Baum
     '381':
       Question: '&bAuthors: Who wrote Zorba the Greek?'
       Answers:
       - Nikos Kazantzakis
+      - Kazantzakis      
     '382':
       Question: '&bAuthors: Who wrote the "Noddy" books?'
       Answers:
       - Enid Blyton
+      - Blyton
     '383':
       Question: '&bAuthors: Who wrote the novel "Slaughterhouse Five"?'
       Answers:
       - Kurt Vonnegut Jr
+      - Vonnegut
     '384':
       Question: '&bAuthors: Who wrote the novel "Anna of the Five Towns"?'
       Answers:
@@ -1831,10 +1889,12 @@ Data:
       Question: '&bAuthors: Who wrote the novel Enigma?'
       Answers:
       - Robert Harris
+      - Harris
     '386':
       Question: '&bAuthors: Whose books include "Crisis Four" and "Firewall"?'
       Answers:
       - Andy Mcnab
+      - Mcnab
     '3869':
       Question: '&bBefore and After: What word goes before World, Testament and Spice'
       Answers:
@@ -1875,27 +1935,36 @@ Data:
       Question: '&bBoats Trivia: A boat or raft with two parallel hulls?'
       Answers:
       - Catamaran
+      - outrigger
     '396':
       Question: '&bBoats Trivia: A sailor who has not yet crossed the equator is referred to by what name?'
       Answers:
       - Pollywog
     '397':
-      Question: '&bBoats Trivia: A ships officer in charge of equipment and crew?'
+      Question: '&bBoats Trivia: A ship''s officer in charge of hull, equipment and deck crew?'
       Answers:
       - Boatswain
+      - bosun
+      - bosn
+      - deck boss
     '398':
       Question: '&bBoats Trivia:  According to tradition, which animals desert a sinking ship?'
       Answers:
       - Rats
     '399':
-      Question: '&bBoats Trivia:  Who sailed to the new world in "The Mayflower"?'
+      Question: '&bBoats Trivia:  Who sailed to the new world on The Mayflower?'
       Answers:
       - Pilgrims
+      - Protestants
+      - Separatists
+      - English
+      - English Protestants
       - The Pilgrims
     '400':
       Question: '&bBritish Slang: A fight or argument'
       Answers:
       - Kerfuffle
+      - argy bargy
     '401':
       Question: '&bBritish Slang: An unwise person'
       Answers:
@@ -1928,41 +1997,42 @@ Data:
       Question: '&bCars: Combine a Van & a Car & you get this word.'
       Answers:
       - Caravan
-    '409':
-      Question: '&bCars: Other than the U.K. and Eire, name a European country where cars are driven on the left hand side of the road.'
-      Answers:
-      - Cyprus
-      - Malta
     '410':
       Question: '&bCars: Sister car of the Nissan Quest.'
       Answers:
       - Mercury Villager
     '411':
-      Question: '&bCars: The original name for this Pontiac car was the Banshee, for its mythicality.'
+      Question: '&bCars: The Banshee was the original name for what popular Pontiac sports car?'
       Answers:
       - Firebird
     '412':
-      Question: '&bCars: Volvos chairman resigned in 1993 in protest of a merger with this automaker.'
+      Question: '&bCars: Volvo's chairman resigned in 1993 in protest of a merger with this automaker.'
       Answers:
       - Renault
     '413':
       Question: '&bCars: What car was used in the movie Back to the Future?'
       Answers:
       - De Lorean
+      - delorean
     '414':
-      Question: '&bCars: What was Al Capones favorite bullet proof car'
+      Question: '&bCars: What was Al Capone''s favorite bulletproof car'
       Answers:
       - Cadillac
     '415':
-      Question: '&bCars: What was Fords first production car?'
+      Question: '&bCars: What was Ford''s first production car?'
       Answers:
       - Model T
       - T Lizzy
       - T Model
+      - T Lizzie
+      - tin lizzy
+      - tin lizzie
     '416':
-      Question: '&bCars: Which best selling car with a production spanning some 30 years is to be replaced by the "Focus"'
+      Question: '&bCars: Which best-selling car -- in production for over 30 years -- will be replaced by the "Focus"'
       Answers:
       - ford escort
+      - escort
+      - the escort
     '417':
       Question: '&bCars: Which car company makes the Avensis?'
       Answers:
@@ -1971,55 +2041,68 @@ Data:
       Question: '&bClassic Literature: Who wrote A Christmas Carol?'
       Answers:
       - Charles Dickens
+      - Dickens
     '419':
       Question: '&bClassic Literature: Who wrote For Whom The Bell Tolls?'
       Answers:
       - Ernest Hemingway
+      - Hemingway
     '420':
-      Question: '&bClassic Literature: Who wrote Lord of the Rings?'
+      Question: '&bClassic Literature: Who wrote The Lord of the Rings?'
       Answers:
       - J.R.R. Tolkien
       - Tolkien
+      - jrr tolkien
     '421':
       Question: '&bClassic Literature: Who wrote Of Mice and Men?'
       Answers:
       - John Steinbeck
+      - steinbeck
     '422':
       Question: '&bClassic Literature: Who wrote Romeo and Juliet?'
       Answers:
       - William Shakespeare
+      - shakespeare
     '423':
       Question: '&bClassic Literature: Who wrote The Adventures of Tom Sawyer?'
       Answers:
       - Mark Twain
+      - twain
     '424':
       Question: '&bClassic Literature: Who wrote The Great Gatsby?'
       Answers:
       - F.Scott Fitzgerald
+      - fitzgerald
     '425':
       Question: '&bClassic Literature: Who wrote Agnes Grey?'
       Answers:
       - Anne Bronte
+      - bronte
     '426':
       Question: '&bClassic Literature: Who wrote Jane Eyre?'
       Answers:
       - Charlotte Bronte
+      - bronte
     '427':
       Question: '&bClassic Literature: Who wrote Pride and Prejudice?'
       Answers:
       - Jane Austen
+      - austen
     '428':
       Question: '&bClassic Literature: Who wrote To Kill A Mockingbird?'
       Answers:
       - Harper Lee
+      - lee
     '429':
       Question: '&bClassic Literature: Who wrote Wuthering Heights?'
       Answers:
       - Emily Bronte
+      - bronte
     '430':
       Question: '&bClassic Literature: Who wrote David Copperfield?'
       Answers:
       - Charles Dickens
+      - dickens
     '431':
       Question: '&bComputer Trivia: What year was Facebook founded?'
       Answers:
@@ -2028,6 +2111,7 @@ Data:
       Question: '&bComputer Trivia: In computer science, what does "GUI" stand for?'
       Answers:
       - Graphical User Interface
+      - graphic user interface
     '433':
       Question: '&bComputer Trivia: In database programming, SQL is an acronym for what?'
       Answers:
@@ -2044,6 +2128,7 @@ Data:
       Question: '&bComputer Trivia: Fonts that contain small decorative lines at the end of a stroke are known as what?'
       Answers:
       - Serif Fonts
+      - serif
     '437':
       Question: '&bComputer Trivia: In what year was the iPhone first released?'
       Answers:
@@ -2056,6 +2141,7 @@ Data:
       Question: '&bCooking: Trivia: A salad containing diced apple, celery, walnuts and mayonnaise is known as what?'
       Answers:
       - Waldorf Salad
+      - waldorf
     '440':
       Question: '&bCooking: Trivia: A small pickled cucumber'
       Answers:
@@ -2069,15 +2155,17 @@ Data:
       Answers:
       - Orange
     '443':
-      Question: '&bCooking: Trivia: What kind of vegetable is a rutabaga?'
+      Question: '&bCooking: Trivia: Rutabagas are a hybrid of turnips and what?'
       Answers:
-      - Turnip
+      - cabbage
+      - cabbages
     '444':
       Question: '&bFamous Inventors: (1856-1943) This Serbian-American in was responsible for making the widely popular AC electric supply system'
       Answers:
       - Nikola Tesla
+      - Tesla
     '445':
-      Question: '&bFamous Inventors: Henry M. Garret from Dallas,Texas,USA well know for his water powered car invention. In 1923 he is also made the very first'
+      Question: '&bFamous Inventors: Henry M. Garret from Dallas, TX invented the famous water-powered car. In 1923 he is also created the very first ____'
       Answers:
       - Traffic lights
     '446':
