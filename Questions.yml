@@ -5314,6 +5314,7 @@ Data:
       Question: '&bScience: Biology - What is the scientific name for humans'
       Answers:
       - Homosapiens
+      - Homo Sapiens
     '1199':
       Question: '&bScience: Biology - What is the scientific name for one of your lower arm bones'
       Answers:
@@ -5344,6 +5345,7 @@ Data:
       Question: '&bScience: Biology - Where in the body are the Haversian canals'
       Answers:
       - Inside bones
+      - Bones
     '1206':
       Question: '&bScience: Biology - Where in the body is the axilla'
       Answers:
