@@ -1,9 +1,10 @@
-# Question file
-# Change the answer on number three, or the entire question.
-# Just enter question number, question itself and possible answers. You can have as many answers as you want.
-# Multiple answers are useful when there is more than one correct answer. For example: Who created Minecraft? Answers: Notch, markus persson
-# Questions made by CFEW.us server
-
+  ______ ____  _        ____  _   _ ______ 
+ |  ____|  _ \| |      / __ \| \ | |  ____|
+ | |__  | |_) | |     | |  | |  \| | |__   
+ |  __| |  _ <| |     | |  | | . ` |  __|  
+ | |    | |_) | |____ | |__| | |\  | |____ 
+ |_|    |____/|______(_)____/|_| \_|______|
+                                           
 Data:
   Default:
     '1':
@@ -388,7 +389,7 @@ Data:
       Answers:
       - teleports
       - teleport
-      - teleport you
+      - teleport away
     '71':
       Question: '&bMinecraft: What is the minecraft circuitry?'
       Answers:
@@ -441,6 +442,8 @@ Data:
       Question: '&bMinecraft: What tames cats?'
       Answers:
       - Raw fish
+      - Raw cod
+      - Raw salmon
     '80':
       Question: '&bMinecraft: What tames wolves?'
       Answers:
@@ -611,8 +614,8 @@ Data:
     '114':
       Question: '&bMinecraft: How many kinds of meat are there??'
       Answers:
-      - '7'
-      - Seven
+      - '10'
+      - Ten
     '115':
       Question: '&bMinecraft: Does depth strider increase vertical speed? (true or false)'
       Answers:
@@ -638,8 +641,10 @@ Data:
       - drowned
       - husk
       - zoglin
-      - zombiefied piglin
+      - zombified piglin
       - zombie piglin
+      - Phantom
+      - Zombie Horse
     '119':
       Question: '&bMinecraft: name one of the arthropod mobs'
       Answers:
@@ -647,6 +652,7 @@ Data:
       - cave spider
       - silverfish
       - endermite
+      - Bee
     '120':
       Question: '&bMinecraft: How much extra damage does each level of Bane of Arthropods enchantment add?'
       Answers:
@@ -689,7 +695,7 @@ Data:
       - snow
       - sugar cane
       - wheat
-      - inverted dylight sensor
+      - inverted daylight sensor
       - spawner
     '126':
       Question: '&bMinecraft: How much longer (percentage) armor will last on average with an Unbreaking
@@ -908,6 +914,7 @@ Data:
       - melon seeds
       - pumpkin seeds
       - seeds
+      - Torchflower Seeds
     '171':
       Question: '&bMinecraft: How many minutes does it take for a chicken to grow?'
       Answers:
@@ -921,8 +928,8 @@ Data:
     '173':
       Question: '&bMinecraft: How many professions do villagers have?'
       Answers:
-      - '11'
-      - eleven
+      - '13'
+      - thirteen
     '175':
       Question: '&bAnimals:  A group of cattle is called a?'
       Answers:
@@ -944,7 +951,7 @@ Data:
       Answers:
       - Colony
     '180':
-      Question: '&bAnimals: What is a group of Ape?'
+      Question: '&bAnimals: What is a group of Apes?'
       Answers:
       - Shrewdness
     '181':
@@ -1952,6 +1959,7 @@ Data:
       - Separatists
       - English
       - English Protestants
+      - The Pilgrims
     '400':
       Question: '&bBritish Slang: A fight or argument'
       Answers:
@@ -2184,10 +2192,13 @@ Data:
       Question: '&bFears: What is the fear of computers known as?'
       Answers:
       - Logizomechanophobia
+      - Technophobia
+      - Cyberphobia
     '452':
       Question: '&bFears: What is the fear of darkness known as?'
       Answers:
       - Lygophobia
+      - nyctophobia
     '453':
       Question: '&bFears: What is the fear of dreams known as?'
       Answers:
@@ -2195,7 +2206,7 @@ Data:
     '454':
       Question: '&bFears: What is the fear of fears known as?'
       Answers:
-      - Pantophobia
+      - Phobophobia
     '455':
       Question: '&bFears: What is the fear of flying known as?'
       Answers:
@@ -2204,10 +2215,12 @@ Data:
       Question: '&bFears: What is the fear of food or eating known as?'
       Answers:
       - Sitophobia
+      - Cibophobia
     '457':
       Question: '&bFears: What is the fear of germs known as?'
       Answers:
       - Germophobia
+      - Mysophobia
     '458':
       Question: '&bFears: What is the fear of ghosts known as?'
       Answers:
@@ -2224,10 +2237,12 @@ Data:
       Question: '&bFears: What is the fear of ice or frost known as?'
       Answers:
       - Pagophobia
+      - Cryophobia
     '462':
       Question: '&bFears: What is the fear of illness known as?'
       Answers:
       - Nosemaphobia
+      - Nosophobia
     '463':
       Question: '&bFears: What is the fear of light flashes known as?'
       Answers:
@@ -2249,13 +2264,14 @@ Data:
       Answers:
       - Kinetophobia
     '468':
-      Question: '&bFears: What is the fear of one thing known as?'
+      Question: '&bFears: What is the fear of being completely alone?'
       Answers:
       - Monophobia
+      - Autophobia
     '469':
       Question: '&bFears: What is the fear of outer space known as?'
       Answers:
-      - Spacephobia
+      - Cosmophobia
       - Astrophobia
     '470':
       Question: '&bFears: What is the fear of pregnancy or childbirth known as?'
@@ -2288,11 +2304,13 @@ Data:
     '477':
       Question: '&bFlower Meanings: What is the flower that stands for: affection?'
       Answers:
-      - mossy pear
+      - pink carnation
+      - Camellia
     '478':
       Question: '&bFlower Meanings: What is the flower that stands for: affection?'
       Answers:
-      - mossy saxifrage
+      - Pink carnation
+      - Camellia
     '479':
       Question: '&bFlower Meanings: What is the flower that stands for: aversion?'
       Answers:
@@ -2301,14 +2319,18 @@ Data:
       Question: '&bFlower Meanings: What is the flower that stands for: betrayal?'
       Answers:
       - judas tere
+      - Black dahlia
     '481':
       Question: '&bFlower Meanings: What is the flower that stands for: bonds?'
       Answers:
       - convolvulus
+      - Alstroemeria
+      - Lily of the Inca
     '482':
       Question: '&bFlower Meanings: What is the flower that stands for: concealed love?'
       Answers:
       - motherwort
+      - acacia flower
     '483':
       Question: '&bFlower Meanings: What is the flower that stands for: dangerous pleasures?'
       Answers:
@@ -2421,6 +2443,7 @@ Data:
       Question: '&bClassic Video Games: Gotta catch em all'
       Answers:
       - Pokemon
+      - Pokémon
     '510':
       Question: '&bClassic Video Games: Hunting vampires until the end'
       Answers:
@@ -2429,11 +2452,14 @@ Data:
       Question: '&bClassic Video Games: Its dangerous to go alone'
       Answers:
       - Legend of Zelda
+      - The Legend of Zelda
     '512':
       Question: '&bClassic Video Games: One of the first arcade games, a bit like table tennis'
       Answers:
       - Pong
       - Ping
+      - Ping Pong
+      - Pong Ping
     '513':
       Question: '&bClassic Video Games: Run around eating dots and escaping ghosts'
       Answers:
@@ -2470,8 +2496,8 @@ Data:
     '521':
       Question: '&bMinecraft: A boss mob that resides beneath the ocean in a temple'
       Answers:
-      - Guardians
-      - gaurdian
+      - Elder Guardians
+      - Elder Guardian
     '522':
       Question: '&bMinecraft: A creeper becomes a charged creeper when being'
       Answers:
@@ -2504,12 +2530,12 @@ Data:
       Answers:
       - Blaze
     '529':
-      Question: '&bMinecraft: A new block added in 1.10, made by crafting bones in a 9x9 grid'
+      Question: '&bMinecraft: A new block added in 1.10, made by crafting bonemeal in a 9x9 grid'
       Answers:
       - Bone Blocks
       - bone block
     '530':
-      Question: '&bMinecraft: A teleporting passive mob until you notice them'
+      Question: '&bMinecraft: A teleporting passive mob... until you notice them'
       Answers:
       - Enderman
       - Endermen
@@ -2525,15 +2551,18 @@ Data:
     '533':
       Question: '&bMinecraft: After killing the Ender Dragon a player can visit'
       Answers:
-      - The End
+      - End Islands
+      - End City
     '534':
       Question: '&bMinecraft: An item & a product of trees but cannot be used as a fuel source in a furnace'
       Answers:
-      - Paper
+      - Apple
     '535':
       Question: '&bMinecraft: An item other than a block, when placed can hold up water'
       Answers:
       - Ladder
+      - Pressure plate
+      - Sign
     '536':
       Question: '&bMinecraft: An item used to make chainmail armor'
       Answers:
@@ -2542,6 +2571,7 @@ Data:
       Question: '&bMinecraft: Another name for a "music block"'
       Answers:
       - Noteblock
+      - Note Block
     '538':
       Question: '&bMinecraft: At the end, you fight the'
       Answers:
@@ -2597,10 +2627,12 @@ Data:
       Answers:
       - Netherwarts
       - Netherwart
+      - Nether Wart
     '550':
       Question: '&bMinecraft: In singleplayer, the first word that comes up when you die'
       Answers:
       - Game
+      - You
     '551':
       Question: '&bMinecraft: In what version of Minecraft were tripwires added?'
       Answers:
@@ -2635,6 +2667,7 @@ Data:
       Question: '&bMinecraft: Mobs have difficultly getting over this block'
       Answers:
       - Fence
+      - Rail
     '559':
       Question: '&bMinecraft: Mushroom stew heals how many hearts'
       Answers:
@@ -2653,7 +2686,7 @@ Data:
       Answers:
       - Enderman
     '563':
-      Question: '&bMinecraft: Number of gold ingots needed to make a watch'
+      Question: '&bMinecraft: Number of gold ingots needed to make a Clock'
       Answers: 
       - '4'
       - Four
@@ -2700,6 +2733,7 @@ Data:
       Question: '&bMinecraft: The appearance of minecraft can be altered with a'
       Answers:
       - Resource Pack
+      - Texture Pack
     '575':
       Question: '&bMinecraft: The block you get when water meets lava'
       Answers:
@@ -2805,8 +2839,10 @@ Data:
       Question: '&bMinecraft: What music artist created the music on the music discs?'
       Answers:
       - c418
+      - Lena Raine
+      - Samuel Åberg
     '600':
-      Question: '&bMinecraft: What tool allows you to harvest a leave block?'
+      Question: '&bMinecraft: What tool allows you to harvest a leaf block?'
       Answers:
       - Shear
       - Shears
@@ -2836,10 +2872,12 @@ Data:
       Question: '&bMinecraft: Which blocks texture resembles a collage of creeper faces?'
       Answers:
       - Soul Sand
+      - Cyan Glazed Terracotta
     '607':
       Question: '&bMinecraft: Which hand held item can activate a pressure plate from a distance?'
       Answers:
       - Fishing Rod
+      - Bow and Arrow
     '608':
       Question: '&bMinecraft: Which mob can ride on chickens?'
       Answers:
@@ -2924,7 +2962,7 @@ Data:
       Answers:
       - Jetpack Joyride
     '627':
-      Question: '&bMobile Games: Punch blocks, fight mobs and buil... wait its on mobile now?'
+      Question: '&bMobile Games: Punch blocks, fight mobs, and build... wait, its on mobile now?'
       Answers:
       - Minecraft PE
       - Minecraft Pocket Edition
@@ -2947,11 +2985,11 @@ Data:
     '632':
       Question: '&bPokemon: How many non-legendary Pokemon cannot evolve? (Note - mega evolutions do not count)'
       Answers:
-      - '71'
+      - '78'
     '633':
       Question: '&bPokemon: How many Pokemon have branch evolutions?'
       Answers:
-      - '12'
+      - '30'
     '634':
       Question: '&bPokemon: Which Pokemon was the first Pokemon ever created?'
       Answers:
@@ -2959,7 +2997,7 @@ Data:
     '635':
       Question: '&bPokemon: Which Pokemon is the tallest Pokemon in the game?'
       Answers:
-      - Wailord
+      - Eternatus
     '636':
       Question: '&bPokemon: Who was the Pokemon Professor in the second generation Pokemon game?'
       Answers:
@@ -2991,6 +3029,7 @@ Data:
       Question: '&bVideo Game Consoles: One of the greatest video game consoles, made by Nintendo'
       Answers:
       - NES
+      - Nintendo Entertainment System
     '643':
       Question: '&bVideo Game Consoles: Released by Sega in 1998, the sixth generation of video game consoles'
       Answers:
@@ -3050,9 +3089,9 @@ Data:
       Answers:
       - Nu
     '656':
-      Question: '&bVideo Games:  A fighting video game in the series where two fighters use a variety of attacks to knock out their opponent(Hadouken!)'
+      Question: '&bVideo Games:  A fighting video game in the series where two fighters use a variety of attacks to knock out their opponent (Hadouken!)'
       Answers:
-      - Street Fighter V
+      - Street Fighter
     '657':
       Question: '&bVideo Games:  A much anticipated open-world first person survival game, that was not all it was cracked up to be'
       Answers:
@@ -3067,6 +3106,7 @@ Data:
       Question: '&bVideo Games:  A puzzling game involving a portal device and a malicious AI'
       Answers:
       - Portal
+      - Portal 2
     '660':
       Question: '&bVideo Games:  An underwater FPS where you roam around the city of Rapture'
       Answers:
@@ -3082,7 +3122,7 @@ Data:
       Answers:
       - Skyrim
     '663':
-      Question: '&bVideo Games:  Following in the originals footprints, you battle the forces of Hell as an marine'
+      Question: '&bVideo Games:  Following in the originals footprints, you battle the forces of Hell as a marine'
       Answers:
       - Doom
     '664':
@@ -3094,44 +3134,45 @@ Data:
       Answers:
       - '10'
       - Ten
-    '6560':
-      Question: '&bVideo Games:  A fighting video game in the series where two fighters use a variety of attacks to knock out their opponent(Hadouken!)'
+    '656':
+      Question: '&bVideo Games:  A game series where you run around as a pink ball that eats everything in sight'
       Answers:
-      - Street Fighter V
-    '6570':
-      Question: '&bVideo Games:  A much anticipated open-world first person survival game, that was not all it was cracked up to be'
+      - Kirby
+    '657':
+      Question: '&bVideo Games:  Play soccer as... a supercar?'
       Answers:
-      - No Man's Sky
-    '6580':
-      Question: '&bVideo Games:  A multiplayer FPS, RED v BLU team and many gamemodes'
+      - Rocket League
+    '658':
+      Question: '&bVideo Games:  A highly-memed 3rd-person shooter with way too many emotes. Very popular amongst kids.'
       Answers:
-      - TF2
-      - Team Fortress 2
-    '6590':
-      Question: '&bVideo Games:  A puzzling game involving a portal device and a malicious AI'
+      - Fortnite
+      - Fortnite Battle Royale
+    '659':
+      Question: '&bVideo Games:  A man has fallen into the river in -----'
       Answers:
-      - Portal
-    '6600':
+      - Lego City
+      - Lego City Undercover
+    '660':
       Question: '&bVideo Games:  An underwater FPS where you roam around the city of Rapture'
       Answers:
       - BioShock
-    '6610':
+    '661':
       Question: '&bVideo Games:  Become a stealthy assassin and fight off the Templars'
       Answers:
       - Assassin's Creed Syndicate
-    '6620':
+    '662':
       Question: '&bVideo Games:  Fighting dragons and running around snowy terrain'
       Answers:
       - Skyrim
-    '6630':
+    '663':
       Question: '&bVideo Games:  Following in the originals footprints, you battle the forces of Hell as an marine'
       Answers:
       - Doom
-    '6640':
+    '664':
       Question: '&bVideo Games:  From Vault 111 to post-apocalyptic Boston'
       Answers:
       - Fallout 4
-    '6650':
+    '665':
       Question: '&bVideo Games:  How many generations are in Titanfall?'
       Answers:
       - '10'
@@ -3174,7 +3215,7 @@ Data:
       Answers:
       - Cryaotic
     '674':
-      Question: '&bYoutubers: Does many modded Minecraft lets plays on his channel'
+      Question: '&bYoutubers: Does many modded Minecraft lets plays on his channel; "Lets Not Talk About That"'
       Answers:
       - CaptainSparklez
     '675':
@@ -3182,7 +3223,7 @@ Data:
       Answers:
       - Jacksepticeye
     '676':
-      Question: '&bYoutubers: Known for Minecraft on his channel'
+      Question: '&bYoutubers: Known for Minecraft on his channel; "The Life and Extra Lives of a Professional Nerd"'
       Answers:
       - NerdCubed
     '677':
@@ -3190,15 +3231,15 @@ Data:
       Answers:
       - Dodger
     '678':
-      Question: '&bYoutubers: Known for his Happy Wheels series, amongst other games'
+      Question: '&bYoutubers: Swedish YouTuber known for his Happy Wheels series, amongst other games'
       Answers:
       - PewDiePie
     '679':
-      Question: '&bYoutubers: Known for playing many horror games'
+      Question: '&bYoutubers: Known for playing many horror games; "King of Five Nights at Freddys":'
       Answers:
       - Markiplier
     '680':
-      Question: '&bYoutubers: Known for the Shadow of Israphel series'
+      Question: '&bYoutubers: Known for the Shadow of Israphel series; Launched a car into space'
       Answers:
       - Yogscast
     '681':
@@ -4498,7 +4539,7 @@ Data:
       - A mob
       - Mob
     '994':
-      Question: '&bInternet: Jargon - The smallist unit in computing'
+      Question: '&bInternet: Jargon - The smallest unit in computing'
       Answers:
       - A Bit
       - Bit
@@ -4847,7 +4888,7 @@ Data:
       - Sultans of Swing Dire Straits
       - sultans of swing
     '1075':
-      Question: '&bMusic: Lyrics - Been there, done that, messed around,Im having fun'
+      Question: '&bMusic: Lyrics - Been there, done that, messed around, Im having fun'
       Answers:
       - Bulletproof La Roux
       - bulletproof
@@ -5362,6 +5403,7 @@ Data:
       Question: '&bScience: Biology - What is the scientific name for humans'
       Answers:
       - Homosapiens
+      - Homo Sapiens
     '1199':
       Question: '&bScience: Biology - What is the scientific name for one of your lower arm bones'
       Answers:
@@ -5392,6 +5434,7 @@ Data:
       Question: '&bScience: Biology - Where in the body are the Haversian canals'
       Answers:
       - Inside bones
+      - Bones
     '1206':
       Question: '&bScience: Biology - Where in the body is the axilla'
       Answers:
