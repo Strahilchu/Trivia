@@ -1,5 +1,4 @@
 # Trivia
-Questions
 
 Stick to the format provided
 
