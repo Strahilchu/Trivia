@@ -3425,6 +3425,7 @@ Data:
       Question: '&bGeography: Capitals - South Africa'
       Answers:
       - Cape Town
+      - Capetown
     '732':
       Question: '&bGeography: Capitals - Spain'
       Answers:
@@ -3444,7 +3445,7 @@ Data:
     '736':
       Question: '&bGeography: Capitals - Tonga'
       Answers:
-      - Nuku'Alofa
+      - Nuku ''Alofa
     '737':
       Question: '&bGeography: Capitals - Turkmenistan'
       Answers:
@@ -3469,14 +3470,17 @@ Data:
       Question: '&bGeography: Famous Landmark Locations - Colosseum'
       Answers:
       - Italy
+      - Rome
     '743':
       Question: '&bGeography: Famous Landmark Locations - Eiffel Tower'
       Answers:
       - France
+      - Paris
     '744':
       Question: '&bGeography: Famous Landmark Locations - Leaning Tower of Pisa'
       Answers:
       - Italy
+      - Pisa
     '745':
       Question: '&bGeography: Famous Landmark Locations - Louvre Museum'
       Answers:
@@ -3506,10 +3510,14 @@ Data:
       Question: '&bGeography: Famous Landmark Locations - Sistine Chapel'
       Answers:
       - Vatican City
+      - The Vatican
+      - Vatican
     '752':
       Question: '&bGeography: Famous Landmark Locations - Statue of Liberty'
       Answers:
       - New York City
+      - NYC
+      - New York
     '753':
       Question: '&bGeography: Famous Landmark Locations - Stonehenge'
       Answers:
@@ -3526,7 +3534,7 @@ Data:
       Question: '&bGeography: Famous Landmark Locations - The White House'
       Answers:
       - Washington D.C
-      - washington
+      - Washington
       - USA
     '757':
       Question: '&bGeography: Famous Landmark Locations - Tokyo Tower'
@@ -3536,10 +3544,12 @@ Data:
       Question: '&bGeography: Lakes - What is the largest lake in Central America'
       Answers:
       - Lake Nicaragua
+      - Nicaragua
     '759':
       Question: '&bGeography: What is the largest lake in the U.S'
       Answers:
       - Superior
+      - Lake Superior
     '760':
       Question: '&bGeography: Which mountain peak is the highest in the Western Hemisphere'
       Answers:
@@ -3548,38 +3558,49 @@ Data:
       Question: '&bGeography: Which mountain range forms a geographical boundary between Europe and Asia'
       Answers:
       - Urals
+      - Ural Mountains
     '762':
       Question: '&bGeography: Largest ocean in the world'
       Answers:
       - Pacific
+      - Pacific Ocean
     '763':
       Question: '&bGeography: Ocean on the East coast of Africa'
       Answers:
       - Indian
+      - Indian Ocean
     '764':
       Question: '&bGeography: Ocean surrounding Antarctica'
       Answers:
       - Southern
+      - Southern Ocean
     '765':
       Question: '&bGeography: Second largest ocean'
       Answers:
       - Atlantic
+      - Atlantic Ocean
     '766':
       Question: '&bGeography: Smallest ocean in the world'
       Answers:
       - Arctic
+      - Arctic Ocean
     '767':
       Question: '&bGeography: Largest river in the world'
       Answers:
       - Nile
+      - The Nile
+      - Nile River
     '768':
       Question: '&bGeography: River located in China, known for its dolphins'
       Answers:
       - Yangtze River
+      - Yangtze
     '769':
       Question: '&bGeography: Second largest river in the world, located in South America'
       Answers:
       - Amazon River
+      - Amazon
+      - The Amazon
     '770':
       Question: '&bGeography: Smallest river in the world'
       Answers:
@@ -3596,6 +3617,8 @@ Data:
       Question: '&bGeography: Worlds deepest river'
       Answers:
       - Congo River
+      - Congo
+      - The Congo
     '774':
       Question: '&bGeography: What language do they speak in Brazil?'
       Answers:
@@ -3609,7 +3632,7 @@ Data:
       Answers:
       - Italy
     '777':
-      Question: '&bGeography: Canada is separated on an imaginary line along the --------------'
+      Question: '&bGeography: Canada is separated from the U.S on an imaginary line along the --------------'
       Answers:
       - 49th parallel
     '778':
@@ -3628,10 +3651,6 @@ Data:
       Question: '&bGeography: In which city is Red Square?'
       Answers:
       - Moscow
-    '782':
-      Question: '&bGeography: In which city is the Coliseum located?'
-      Answers:
-      - Rome
     '783':
       Question: '&bGeography: In which country has Carlsberg been established?'
       Answers:
@@ -3673,11 +3692,13 @@ Data:
       Question: '&bGeography: On what peninsula are Spain and Portugal located?'
       Answers:
       - The Iberian Peninsula
-      - iberian
+      - Iberian
     '793':
       Question: '&bGeography: On which river is the Aswan High Dam?'
       Answers:
       - Nile
+      - Nile River
+      - The Nile
     '794':
       Question: '&bGeography: Ruby Falls, Americas highest underground waterfall open to the public, is located on historic Lookout Mountain in Chattanooga, ---------------'
       Answers:
@@ -3757,13 +3778,13 @@ Data:
     '813':
       Question: '&bGeography: What is the most populous city in North America?'
       Answers:
-      - Mexico
+      - Mexico City
     '814':
       Question: '&bGeography: What is the official language of Egypt?'
       Answers:
       - Arabic
     '815':
-      Question: '&bGeography: Where did the bay of pigs take place?'
+      Question: '&bGeography: Where did the bay of pigs incident take place?'
       Answers:
       - Cuba
     '816':
@@ -3775,13 +3796,14 @@ Data:
       Answers:
       - Peru
     '818':
-      Question: '&bGeography: Where did the mafia originate?'
+      Question: '&bGeography: Where did the Italian mafia originate?'
       Answers:
       - Sicily
     '819':
       Question: '&bGeography: Where do the english monarchs live?'
       Answers:
       - Buckingham Palace
+      - Buckingham
     '820':
       Question: '&bGeography: Where does the Iditarod dog sled race take place?'
       Answers:
@@ -3803,7 +3825,7 @@ Data:
       Answers:
       - Buenos Aires
     '825':
-      Question: '&bGeography: Where is Mount Rushmore?'
+      Question: '&bGeography: In which state is Mount Rushmore?'
       Answers:
       - South Dakota
     '826':
@@ -3851,20 +3873,16 @@ Data:
       Question: '&bGeography: Which U.S. city is known as the Biggest Little City in the World?'
       Answers:
       - Reno
-    '837':
-      Question: '&bGeography: Which U.S. state borders a Canadian territory?'
-      Answers:
-      - Alaska
     '838':
       Question: '&bGeography: Which city is known as Motown?'
       Answers:
       - Detroit
     '839':
-      Question: '&bGeography: Which element makes up 2.83% of the Earths crust?'
+      Question: '&bGeology: Which element makes up 2.83% of the Earths crust?'
       Answers:
       - Sodium
     '840':
-      Question: '&bGeography: Which element makes up 5% of the Earths crust?'
+      Question: '&bGeology : Which element makes up 5% of the Earths crust?'
       Answers:
       - Iron
     '841':
@@ -3888,7 +3906,7 @@ Data:
       Answers:
       - Lundy Island
     '846':
-      Question: '&bGeography: US Capitals - Califorina'
+      Question: '&bGeography: US Capitals - California'
       Answers:
       - Sacramento
     '847':
@@ -3912,6 +3930,7 @@ Data:
       Question: '&bGeography: US Capitals - Missouri'
       Answers:
       - Jefferson City
+      - Jefferson
     '852':
       Question: '&bGeography: US Capitals - New Hampshire'
       Answers:
@@ -3924,6 +3943,7 @@ Data:
       Question: '&bHistory: Who was the first queen of England?'
       Answers:
       - Mary I
+      - Mary the First
     '855':
       Question: '&bHistory: Ancient Egyptian Mythology - Who is the god of the dead?'
       Answers:
@@ -3940,6 +3960,7 @@ Data:
       Question: '&bHistory: Ancient Greece - God of Fire'
       Answers:
       - Hephaistos
+      - Hephaestos
     '859':
       Question: '&bHistory: Ancient Greece - God of Sun'
       Answers:
@@ -3973,7 +3994,7 @@ Data:
       Answers:
       - Persephone
     '867':
-      Question: '&bHistory: Ancient Greece - Goddess of War'
+      Question: '&bHistory: Ancient Greece - Goddess of War/Wisdom'
       Answers:
       - Athena
     '868':
@@ -4008,21 +4029,18 @@ Data:
       Question: '&bHistory: Ancient Greek Mythology - Who fought against The Minotaur?'
       Answers:
       - Theseus
-    '876':
-      Question: '&bHistory: Ancient Greek Mythology - Who ruled the seas in Greek mythology?'
-      Answers:
-      - Poseidon
     '877':
       Question: '&bHistory:The Gettysburg address was a speech given by which U.S. president?'
       Answers:
       - President Abraham Lincoln
       - Abraham Lincoln
+      - Lincoln
     '878':
       Question: '&bHistory: Ancient Greek Mythology, Mnemosyne is the mother of the ______'
       Answers:
       - Muses
     '879':
-      Question: '&bHistory: Ancient Greek Mythology, what was attributed to Athena?'
+      Question: '&bHistory: Ancient Greek Mythology, what animal was associated with Athena?'
       Answers:
       - Owl
     '880':
@@ -4053,12 +4071,13 @@ Data:
     '886':
       Question: '&bHistory: Ancient Roman Mythology - The box containing the bad things of the world'
       Answers:
-      - Pandora's Box
+      - Pandora''s Box
       - pandoras box
     '887':
       Question: '&bHistory: Ancient Roman Mythology - This myth explained why the Romans had a right to rule'
       Answers:
       - Romulus and Remus
+      - Romulus & Remus
     '888':
       Question: '&bHistory: Ancient Roman Mythology - Who went through 12 Labours (Missions) to obtain immortality?'
       Answers:
@@ -4114,13 +4133,9 @@ Data:
       Answers:
       - Jupiter
     '901':
-      Question: '&bHistory: Ancient Rome - Lord of Underworld'
+      Question: '&bHistory: Ancient Rome - Lord of the Underworld'
       Answers:
       - Pluto
-    '902':
-      Question: '&bHistory: Ancient Rome - Who is the Roman counterpart of Hermes?'
-      Answers:
-      - Mercury
     '903':
       Question: '&bHistory: Ancient Rome - Wife of Jupiter'
       Answers:
@@ -4238,7 +4253,7 @@ Data:
       Answers:
       - '1945'
     '931':
-      Question: '&bHistory: In what year did the French revolution began?'
+      Question: '&bHistory: In what year did the French revolution begin?'
       Answers:
       - '1789'
     '932':
@@ -4266,7 +4281,7 @@ Data:
       Answers:
       - Guillotine
     '938':
-      Question: '&bHistory: Which military battle took place in 1815?'
+      Question: '&bHistory: Which european military battle took place in 1815?'
       Answers:
       - Waterloo
     '939':
@@ -4277,6 +4292,8 @@ Data:
       Question: '&bHistory: Who succeeded Churchill when he resigned in 1955?'
       Answers:
       - Sir Anthony Eden
+      - Anthony Eden
+      - Eden
     '941':
       Question: '&bHistory: Winston Churchill resigned from office in 1954, 1955 or 1956'
       Answers:
@@ -4316,16 +4333,20 @@ Data:
       Question: '&bHistory: World War I - For what purpose did Allied soldiers boil water by firing thousands of rounds over German trenches?'
       Answers:
       - To make tea
+      - Tea
+      - making tea
     '950':
       Question: '&bHistory: World War I - Germany attacked the U.S. in 1917 to get who to join the war?'
       Answers:
       - Mexico
     '951':
-      Question: '&bHistory: World War I - How many civilians died (its in the millions)?'
+      Question: '&bHistory: World War I - How many million civilians died?'
       Answers:
       - 7 Million
+      - seven
+      - '7'
     '952':
-      Question: '&bHistory: World War I - How many native American fought in the war, despite not having a U.S. citizenship?'
+      Question: '&bHistory: World War I - How many native Americans fought in the war, despite not having a U.S. citizenship?'
       Answers:
       - 13,000
       - '13000'
@@ -4339,6 +4360,7 @@ Data:
       Question: '&bHistory: World War I - The British Army attempted to train what bird?'
       Answers:
       - Seagulls
+      - Seagull
     '955':
       Question: '&bHistory: World War I - The U.S. Government tried to rename hamburgers as what during the war to promote patriotism?'
       Answers:
@@ -4360,6 +4382,7 @@ Data:
       Question: '&bHistory: World War I - The youngest soldier to fight in this war was how old?'
       Answers:
       - '8'
+      - eight
     '960':
       Question: '&bHistory: World War I - What country was neutral during this war and WWII?'
       Answers:
