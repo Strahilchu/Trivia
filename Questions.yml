@@ -7641,6 +7641,9 @@ Data:
     '1742':
       Question: '&bSport: Which country topped the medal tally in XXV Olympics held at Barcelona?'
       Answers:
+      - Unified Team
+      - Russia
+      - Soviet Union
       - USSR
     '1743':
       Question: '&bSport: In which year did the first Commonwealth Games take place?'
