@@ -8331,12 +8331,6 @@ Data:
       Question: '&bTrivia: What name is given to a courtyard in a castle or the wall surrounding the outer court of a castle?'
       Answers:
       - Bailey
-    '1909':
-      Question: '&bExtreme ballsack destruction - How many kicks does it take to destroy a ballsack?'
-      Answers:
-      - 1
-      - 2
-      - 3
     '1910':
       Question: '&bTrivia: What was traditionally made by a Chandler?'
       Answers:
@@ -8651,6 +8645,7 @@ Data:
       Question: '&bAcronym Soup: WYM'
       Answers:
       - what you mean
+      - what do you mean
     '1986':
       Question: '&bAcronym Soup: YCLIU'
       Answers:
