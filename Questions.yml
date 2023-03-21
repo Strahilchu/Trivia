@@ -2346,6 +2346,7 @@ Data:
       Question: '&bFlower Meanings: What is the flower that stands for: divine beauty?'
       Answers:
       - american cowslip
+      - cowslip
     '488':
       Question: '&bFlower Meanings: What is the flower that stands for: early friendship?'
       Answers:
@@ -2459,6 +2460,7 @@ Data:
       Question: '&bClassic Video Games: Run around eating dots and escaping ghosts'
       Answers:
       - Pacman
+      - Pac man
     '514':
       Question: '&bClassic Video Games:  Shooting down 8-bit aliens'
       Answers:
@@ -2538,6 +2540,7 @@ Data:
       Question: '&bMinecraft: A thin glass block'
       Answers:
       - Glass Pane
+      - pane
     '532':
       Question: '&bMinecraft: A yellow ore'
       Answers:
@@ -2613,7 +2616,7 @@ Data:
       Answers:
       - '36'
     '548':
-      Question: '&bMinecraft: How many music disc are in the game as of Minecraft v1.4.6?'
+      Question: '&bMinecraft: How many music discs are in the game as of Minecraft v1.4.6?'
       Answers:
       - '12'
       - Twelve
@@ -2694,6 +2697,7 @@ Data:
       Question: '&bMinecraft: Number of seconds required to mine obsidian with a diamond pickaxe'
       Answers:
       - '10'
+      - ten
     '567':
       Question: '&bMinecraft: Placing a cake on this type of block will cause it to levitate'
       Answers:
@@ -2751,7 +2755,7 @@ Data:
       Answers:
       - Slenderman
     '580':
-      Question: '&bMinecraft: The full name of Notchs personal blog'
+      Question: '&bMinecraft: The full name of Notch''s personal blog'
       Answers:
       - The World of Notch
     '581':
@@ -2784,6 +2788,7 @@ Data:
       Question: '&bMinecraft: Used to add magic to your items'
       Answers:
       - Enchanting Table
+      - anvil
     '588':
       Question: '&bMinecraft: What color is the shirt on the Steve player model?'
       Answers:
@@ -2793,7 +2798,7 @@ Data:
       Answers:
       - Sapling
     '590':
-      Question: '&bMinecraft: How many iron ingot do you need to craft an anvil?'
+      Question: '&bMinecraft: How many iron ingots do you need to craft an anvil?'
       Answers:
       - '31'
       - Thirty one
@@ -2826,6 +2831,7 @@ Data:
       Question: '&bMinecraft: Which material can you not collect without using tools?'
       Answers:
       - Obsidian
+      - Water
     '598':
       Question: '&bMinecraft: What item makes the weakest type of armor?'
       Answers:
@@ -2841,6 +2847,7 @@ Data:
       Answers:
       - Shear
       - Shears
+      - tool with silk touch
     '601':
       Question: '&bMinecraft: What is the maximum amount of items a hopper can hold?'
       Answers:
@@ -2935,6 +2942,7 @@ Data:
       Question: '&bMinecraft: How many minutes is a Minecraft Day/Night cycle in real time'
       Answers:
       - '20'
+      - Twenty
     '622':
       Question: '&bMinecraft: How many blocks tall is a Ghast?'
       Answers:
@@ -2973,18 +2981,23 @@ Data:
       Question: '&bPokemon:How many Pokemon can Eevee currently evolve into?'
       Answers:
       - '8'
+      - eight
     '631':
       Question: '&bPokemon: How many Pokemon types currently exist?'
       Answers:
       - '18'
+      - eighteen
     '632':
       Question: '&bPokemon: How many non-legendary Pokemon cannot evolve? (Note - mega evolutions do not count)'
       Answers:
       - '78'
+      - seventy eight
+      - seventy-eight
     '633':
       Question: '&bPokemon: How many Pokemon have branch evolutions?'
       Answers:
       - '30'
+      - thirty
     '634':
       Question: '&bPokemon: Which Pokemon was the first Pokemon ever created?'
       Answers:
@@ -3075,6 +3088,7 @@ Data:
       Question: '&bVideo Game Trivia: Who is Mega Mans creator?'
       Answers:
       - Dr. Light
+      - doctor light
     '6542':
       Question: '&bVideo Game Trivia: Who is the main character in the DeathQuest series?'
       Answers:
@@ -3132,6 +3146,10 @@ Data:
       Question: '&bVideo Games:  Fighting dragons and running around snowy terrain'
       Answers:
       - Skyrim
+    '6621':
+      Question: '&Video Games: I used to be an adventurer like you, then I took an arrow to the ---'
+      Answers:
+      - knee
     '663':
       Question: '&bVideo Games:  Following in the originals footprints, you battle the forces of Hell as an marine'
       Answers:
@@ -3237,6 +3255,7 @@ Data:
       Question: '&bGeography: Australia - How many stars are on the Australian flag?'
       Answers:
       - '6'
+      - six
     '687':
       Question: '&bGeography: Australia - There are now more than 200 million cane toads in Australia. How many were introduced to the country in 1935?'
       Answers:
@@ -3265,7 +3284,7 @@ Data:
       Question: '&bGeography: Australia - What name was Australia known as in the 18th century?'
       Answers:
       - New Holland
-    '693':
+      '693':
       Question: '&bGeography: Australia - Which famous Australian band had a reality TV show hosted in the U.S. to find a new lead singer?'
       Answers:
       - INXS
@@ -3389,6 +3408,22 @@ Data:
       Question: '&bGeography: Capitals - Niger'
       Answers:
       - Niamey
+    '7221'
+      Question: '&bGeography: Capitals - Nigeria'
+      Answers:
+      - Lagos
+    '7222'
+      Question: '&bGeography: Capitals - Ghana'
+      Answers:
+      - Accra
+    '7221'
+      Question: '&bGeography: Capitals - Ethiopia'
+      Answers:
+      - Addis Ababa
+    '7221'
+      Question: '&bGeography: Capitals - Kenya'
+      Answers:
+      - Nairobi
     '723':
       Question: '&bGeography: Capitals - Norway'
       Answers:
@@ -3446,6 +3481,11 @@ Data:
       Question: '&bGeography: Capitals - Tonga'
       Answers:
       - Nuku ''Alofa
+      - nukualofa
+    '7361'
+      Question: '&bGeography: Capitals - Western Samoa'
+      Answers:
+      - Apia
     '737':
       Question: '&bGeography: Capitals - Turkmenistan'
       Answers:
@@ -3486,6 +3526,7 @@ Data:
       Question: '&bGeography: Famous Landmark Locations - Louvre Museum'
       Answers:
       - France
+      - Paris
     '746':
       Question: '&bGeography: Famous Landmark Locations - Machu Picchu'
       Answers:
@@ -3519,10 +3560,12 @@ Data:
       - New York City
       - NYC
       - New York
+      - Ellis Island
     '753':
       Question: '&bGeography: Famous Landmark Locations - Stonehenge'
       Answers:
       - England
+      - salisbury
     '754':
       Question: '&bGeography: Famous Landmark Locations - Sydney Opera House'
       Answers:
@@ -3607,7 +3650,7 @@ Data:
       Answers:
       - Roe River
     '771':
-      Question: '&bGeography: Which is the largest river forming part of the U.S-Mexico border?'
+      Question: '&bGeography: Which is the largest river, forming part of the U.S.-Mexico border?'
       Answers:
       - Rio Grande
     '772':
@@ -3768,6 +3811,8 @@ Data:
       Question: '&bGeography: What is the highest mountain in Canada?'
       Answers:
       - Mt. Logan
+      - mount logan
+      - logan
     '811':
       Question: '&bGeography: What is the largest landlocked country?'
       Answers:
@@ -3785,15 +3830,15 @@ Data:
       Answers:
       - Arabic
     '815':
-      Question: '&bGeography: Where did the bay of pigs incident take place?'
+      Question: '&bGeography: Where did the Bay of Pigs incident take place?'
       Answers:
       - Cuba
     '816':
-      Question: '&bGeography: Where did the birkenhead sink?'
+      Question: '&bGeography: Where did the Birkenhead sink?'
       Answers:
       - Danger Point
     '817':
-      Question: '&bGeography: Where did the incas live?'
+      Question: '&bGeography: Where did the Incas live?'
       Answers:
       - Peru
     '818':
@@ -3801,16 +3846,18 @@ Data:
       Answers:
       - Sicily
     '819':
-      Question: '&bGeography: Where do the english monarchs live?'
+      Question: '&bGeography: Where do the English monarchs live?'
       Answers:
       - Buckingham Palace
       - Buckingham
+      - Windsor
+      - Windsor castle
     '820':
       Question: '&bGeography: Where does the Iditarod dog sled race take place?'
       Answers:
       - Alaska
     '821':
-      Question: '&bGeography: Where in Italy is the wine Marsala made?'
+      Question: '&bGeography: Where is Marsala wine made?'
       Answers:
       - Sicily
     '822':
@@ -3941,7 +3988,7 @@ Data:
       Answers:
       - Salem
     '854':
-      Question: '&bHistory: Who was the first queen of England?'
+      Question: '&bHistory: Who was the first queen Regnant (reigning herself, not by marriage) of England?'
       Answers:
       - Mary I
       - Mary the First
@@ -3949,16 +3996,18 @@ Data:
       Question: '&bHistory: Ancient Egyptian Mythology - Who is the god of the dead?'
       Answers:
       - Osiris
+      - Anubis
+      - anpu
     '856':
       Question: '&bHistory: Ancient Egyption Mythology - Who was the Egyptian god of the Nile?'
       Answers:
       - Hapi
     '857':
-      Question: '&bHistory: Ancient Greece - God of Drama/Theatre'
+      Question: '&bHistory: Ancient Greece - God of wine and revelry'
       Answers:
       - Dionysus
     '858':
-      Question: '&bHistory: Ancient Greece - God of Fire'
+      Question: '&bHistory: Ancient Greece - the blacksmith god'
       Answers:
       - Hephaistos
       - Hephaestos
@@ -4045,16 +4094,17 @@ Data:
       Answers:
       - Owl
     '880':
-      Question: '&bHistory: Ancient Greek Mythology, who defeated Athene in a weaving contest?'
+      Question: '&bHistory: Ancient Greek Mythology, who defeated Athena in a weaving contest?'
       Answers:
       - Arachne
+      - ariadne
     '881':
       Question: '&bHistory: Ancient Greek Mythology, who did Jocasta marry?'
       Answers:
       - Oedipus
       - Laius
     '882':
-      Question: '&bHistory: Ancient Greek Mythology, who was Jasons wife?'
+      Question: '&bHistory: Ancient Greek Mythology, who was Jason''s wife?'
       Answers:
       - Medea
     '883':
@@ -4201,6 +4251,8 @@ Data:
       Question: '&bHistory: Fighting Techniques - Japanese martial art beginning with K'
       Answers:
       - Karate
+      - kendo
+      - kenjutsu
     '918':
       Question: '&bHistory: Fighting Techniques - Japanese martial art beginning with N'
       Answers:
@@ -4233,6 +4285,7 @@ Data:
       Question: '&bHistory: Norse Mythology - Who was the norse goddess of lust and fertility?'
       Answers:
       - Freya
+      - frejya
     '926':
       Question: '&bHistory: "Operation Desert Storm" took place in 1989, 1991 or 1995'
       Answers:
@@ -4249,6 +4302,8 @@ Data:
       Question: '&bHistory: He ruled Rome when Christ was born.'
       Answers:
       - Caesar Augustus
+      - Augustus 
+      - augustus caesar
     '930':
       Question: '&bHistory: In what year of WW II did Russia declare war on Japan?'
       Answers:
