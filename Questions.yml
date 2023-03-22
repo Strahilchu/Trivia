@@ -3284,7 +3284,7 @@ Data:
       Question: '&bGeography: Australia - What name was Australia known as in the 18th century?'
       Answers:
       - New Holland
-      '693':
+    '693':
       Question: '&bGeography: Australia - Which famous Australian band had a reality TV show hosted in the U.S. to find a new lead singer?'
       Answers:
       - INXS
@@ -3408,19 +3408,19 @@ Data:
       Question: '&bGeography: Capitals - Niger'
       Answers:
       - Niamey
-    '7221'
+    '7221':
       Question: '&bGeography: Capitals - Nigeria'
       Answers:
       - Lagos
-    '7222'
+    '7222':
       Question: '&bGeography: Capitals - Ghana'
       Answers:
       - Accra
-    '7221'
+    '7223':
       Question: '&bGeography: Capitals - Ethiopia'
       Answers:
       - Addis Ababa
-    '7221'
+    '7224':
       Question: '&bGeography: Capitals - Kenya'
       Answers:
       - Nairobi
@@ -3482,7 +3482,7 @@ Data:
       Answers:
       - Nuku ''Alofa
       - nukualofa
-    '7361'
+    '7361':
       Question: '&bGeography: Capitals - Western Samoa'
       Answers:
       - Apia
